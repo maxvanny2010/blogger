@@ -39,7 +39,7 @@ npm i
 
 #### [index page]
 
-![index](src/assets/img/page_index.jpg)
+![index](frontend/src/assets/img/page_index.jpg)
 
 #### [index page permit all]
 
